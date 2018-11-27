@@ -39,7 +39,7 @@ GameObject:
   - component: {fileID: 4336010341978162}
   m_Layer: 0
   m_Name: PointGroup
-  m_TagString: LightGe
+  m_TagString: PointGe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -167,7 +167,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
